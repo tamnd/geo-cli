@@ -1,0 +1,10 @@
+title       = "geo"
+baseURL     = "https://geo-cli.tamnd.com/"
+description = "A command line for geo."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/geo-cli"
